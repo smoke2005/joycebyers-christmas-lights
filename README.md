@@ -2,13 +2,6 @@
 
 Ever wanted your Christmas lights to communicate with the Upside Down, just like Joyce Byers? Well, now they can (sort of)! This project brings the eerie, yet heartwarming, magic of "Stranger Things" to your holiday decorations, making your lights smarter than your average string of bulbs and potentially a portal to another dimension.
 
-## What's Under the Hood (or in the Lab)?
-
-*   **React:** For a dazzling, interactive light show interface that might just spell out messages from Will.
-*   **Vite:** Because nobody likes slow-loading portals to other dimensions.
-*   **TypeScript:** To keep our code as organized as Hawkins National Laboratory (before things went sideways).
-*   **Google Gemini AI:** The brains behind the sparkle! It's probably trying to decipher cryptic messages or predict Demogorgon appearances.
-
 ## Get the Party Started (Before the Gate Opens)!
 
 1.  **Clone this mysterious repo:**
